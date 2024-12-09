@@ -160,4 +160,3 @@
 
     <!-- Copyright -->
     <p class="mb-0" style="font-size: 0.9rem;">&copy; 2024 Food Gallery. All Rights Reserved.</p>
-</footer>https://rem.mit-license.org/
